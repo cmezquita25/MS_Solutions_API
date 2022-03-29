@@ -1,0 +1,1104 @@
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.4\PersonalGeneral.2.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\Usuario\Desktop\Tareas\DMM\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.5\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\osori\OneDrive\Documentos\ApiMathSolutions\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.xml
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\Sucus\Desktop\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.xml
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.1\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.xml
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.xml
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\Sucus\Desktop\CosasDeLaUni\5to Cuatrimestre\Aplicaciones Web para I4.0\PersonalGeneral.2.6.3\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.StaticWebAssets.xml
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\refint\Api_PersonalGeneral.Api.dll
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\osori\OneDrive\Escritorio\TAREAS\Quinto Cuatrimestre\Proyecto MathSolutions\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\refint\Api_PersonalGeneral.Api.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.StaticWebAssets.xml
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\cmezq\Downloads\Blazor\Blazor\Api\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\refint\Api_PersonalGeneral.Api.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.StaticWebAssets.xml
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Proyectos\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.StaticWebAssets.xml
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\refint\Api_PersonalGeneral.Api.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral.3.0.2\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.StaticWebAssets.xml
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.exe
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.deps.json
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.json
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.runtimeconfig.dev.json
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Humanizer.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Application.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Domain.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\bin\Debug\net5.0\Api_PersonalGeneral.Infraestructure.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.AssemblyReference.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfoInputs.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.AssemblyInfo.cs
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CoreCompileInputs.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\scopedcss\bundle\Api_PersonalGeneral.Api.styles.css
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\staticwebassets\Api_PersonalGeneral.Api.StaticWebAssets.Manifest.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.RazorTargetAssemblyInfo.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.csproj.CopyComplete
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\refint\Api_PersonalGeneral.Api.dll
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.pdb
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\Api_PersonalGeneral.Api.genruntimeconfig.cache
+C:\Users\cmezq\Downloads\Proyecto APW Guillie\PersonalGeneral 5.0 Definitiva\PersonalGeneral\Api_PersonalGeneral.Api\obj\Debug\net5.0\ref\Api_PersonalGeneral.Api.dll
